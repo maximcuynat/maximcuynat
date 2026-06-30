@@ -66,12 +66,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maximcuynat&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="Maxim's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcuynat&layout=compact&theme=tokyonight&locale=en" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maximcuynat&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="Maxim's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=maximcuynat&layout=compact&theme=tokyonight&locale=en" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maximcuynat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=maximcuynat&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
