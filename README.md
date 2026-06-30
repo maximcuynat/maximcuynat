@@ -93,8 +93,8 @@
 </a>
 
 <p align="left">
-  <img src="https://img.shields.io/github/v/tag/maximcuynat/mqtt-explorer?style=for-the-badge&logo=github&label=latest%20tag&color=7C3AED" alt="Latest tag"/>
-  <img src="https://img.shields.io/github/release-date/maximcuynat/mqtt-explorer?style=for-the-badge&label=released&color=0e75b6" alt="Release date"/>
+  <a href="https://github.com/maximcuynat/mqtt-explorer/releases/latest"><img src="https://img.shields.io/github/v/tag/maximcuynat/mqtt-explorer?style=for-the-badge&logo=github&label=latest%20tag&color=7C3AED" alt="Latest tag"/></a>
+  <a href="https://github.com/maximcuynat/mqtt-explorer/releases/latest"><img src="https://img.shields.io/github/release-date/maximcuynat/mqtt-explorer?style=for-the-badge&label=released&color=0e75b6" alt="Release date"/></a>
 </p>
 
 ---
