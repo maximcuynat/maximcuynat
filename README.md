@@ -81,11 +81,6 @@
 </table>
 
 <p align="left">
-  <img src="https://img.shields.io/github/v/tag/maximcuynat/mqtt-explorer?style=for-the-badge&logo=github&label=latest%20tag&color=7C3AED" alt="Latest tag"/>
-  <img src="https://img.shields.io/github/release-date/maximcuynat/mqtt-explorer?style=for-the-badge&label=released&color=0e75b6" alt="Release date"/>
-</p>
-
-<p align="left">
   <a href="https://github.com/maximcuynat/mqtt-explorer"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -96,6 +91,11 @@
 <a href="https://github.com/maximcuynat/mqtt-explorer">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=mqtt-explorer&theme=tokyonight" alt="mqtt-explorer repo card"/>
 </a>
+
+<p align="left">
+  <img src="https://img.shields.io/github/v/tag/maximcuynat/mqtt-explorer?style=for-the-badge&logo=github&label=latest%20tag&color=7C3AED" alt="Latest tag"/>
+  <img src="https://img.shields.io/github/release-date/maximcuynat/mqtt-explorer?style=for-the-badge&label=released&color=0e75b6" alt="Release date"/>
+</p>
 
 ---
 
