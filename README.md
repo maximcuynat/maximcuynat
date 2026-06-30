@@ -1,39 +1,79 @@
-# Hi 👋, I'm Maxim CUYNAT
+<h1 align="center">Hi, I'm Maxim Cuynat 👋</h1>
 
-### Web Developer • Symfony | Java | Full-Stack
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximcuynat&label=Profile views&color=0e75b6&style=flat" alt="maximcuynat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximcuynat" alt="maximcuynat" /></a> </p>
-
-- 🔭 I'm currently working on **A Java cinema management application & a Symfony accounting web app https://github.com/maximcuynat/java_CinemaManager**
-
-- 🌱 I'm currently learning **Advanced Java, Symfony architecture, React, system design**
-
-- 👯 I'm looking to collaborate on **Open-source web projects (PHP, Symfony, Java, automation, tools)**
-
-- 🤝 I'm looking for help with **System design, software architecture & best practices**
-
-- 💬 Ask me about **Symfony, PHP, MVC, Doctrine, Twig, Java, HTML, CSS, JavaScript, MySQL**
-
-- 📫 How to reach me **maxim.cuynat.pro@gmail.com**
-
-- ⚡ Fun fact **I love turning crazy ideas into real working apps 👨‍💻🔥**
-
-- 📄 Know about my experiences **[https://www.canva.com/design/DAFdeyZcPIE/5QQIGl-0dMWtZ2l7_vRmkQ/edit](https://www.canva.com/design/DAFdeyZcPIE/5QQIGl-0dMWtZ2l7_vRmkQ/edit)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/maximcuynat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="maximcuynat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maxim-cuynat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxim-cuynat" height="30" width="40" /></a>
-<a href="https://twitter.com/m_cuynat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_cuynat" height="30" width="40" /></a>
+<p align="center">
+  <b>Full-Stack Web Developer</b> · Symfony / PHP · Java · System Design
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/symfony" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=symfony" alt="symfony" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://maxdevapp.alwaysdata.net/"><img src="https://img.shields.io/badge/Portfolio-Mobile%20Apps-7C3AED?style=for-the-badge&logo=googleplay&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/maxim-cuynat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maxim.cuynat.pro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/m_cuynat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maximcuynat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcuynat&show_icons=true&locale=en&layout=compact" alt="maximcuynat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximcuynat&show_icons=true&locale=en" alt="maximcuynat" /></p>
+### 🚀 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maximcuynat&" alt="maximcuynat" /></p>
+- 📱 Discover my **mobile apps** on my portfolio → **[maxdevapp.alwaysdata.net](https://maxdevapp.alwaysdata.net/)**
+- 🔭 I'm building a **Java cinema management app** and a **Symfony accounting web app**
+- 🌱 Currently leveling up on **advanced Java, Symfony architecture, React & system design**
+- 👯 Open to collaborate on **open-source web projects** (PHP, Symfony, Java, automation, tooling)
+- 💬 Ask me about **Symfony, PHP, MVC, Doctrine, Twig, Java, JavaScript & MySQL**
+- ⚡ Fun fact: I love turning crazy ideas into real, working apps 👨‍💻🔥
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=py)
+![C++](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Frameworks & Libraries**
+
+![Symfony](https://skillicons.dev/icons?i=symfony)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Spring](https://skillicons.dev/icons?i=spring)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**Databases & DevOps**
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Tools**
+
+![Bash](https://skillicons.dev/icons?i=bash)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maximcuynat&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="Maxim's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximcuynat&layout=compact&theme=tokyonight&locale=en" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maximcuynat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+<p align="center"><i>Let's build something great together.</i></p>
