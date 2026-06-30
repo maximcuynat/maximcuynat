@@ -63,6 +63,37 @@
 
 ---
 
+### 🌟 Featured Project — MQTT Explorer
+
+> **A local MQTT explorer** to organize connections in nested, renamable, drag-and-drop folders and browse topics as a live tree.
+
+<table>
+  <tr>
+    <td>
+
+- 🗂️ Nested, renamable, **drag-and-drop folders** to organize connections
+- 🌳 Browse MQTT topics as a **live, real-time tree**
+- 🐳 Ships as a **single Docker image** — one command to run
+- ⚙️ Built with **Node.js + React**
+
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <a href="https://github.com/maximcuynat/mqtt-explorer"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+<a href="https://github.com/maximcuynat/mqtt-explorer">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=mqtt-explorer&theme=tokyonight" alt="mqtt-explorer repo card"/>
+</a>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
