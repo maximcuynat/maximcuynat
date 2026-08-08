@@ -63,39 +63,56 @@
 
 ---
 
-### 🌟 Featured Project — MQTT Explorer
+### 🌟 Featured Projects
 
-> **A local MQTT explorer** to organize connections in nested, renamable, drag-and-drop folders and browse topics as a live tree.
+#### 🎧 TOEIC Practice
 
-<table>
-  <tr>
-    <td>
+> **A static site to sit the TOEIC Listening & Reading test** under exam conditions — timed per section, no going back once a section closes.
 
-- 🗂️ Nested, renamable, **drag-and-drop folders** to organize connections
-- 🌳 Browse MQTT topics as a **live, real-time tree**
-- 🐳 Ships as a **single Docker image** — one command to run
-- ⚙️ Built with **Node.js + React**
-
-    </td>
-  </tr>
-</table>
+- 📥 Import any test as **JSON**, or start from the bundled ones
+- ⏱️ **Full test** (45 + 75 min) or single-part practice, timed in proportion
+- 📊 Estimated score per section, accuracy per part, **question-by-question review**
+- ⌨️ Full **keyboard navigation**, answer sheet, flagging
+- 🔒 **Zero dependencies, no build, no server** — nothing leaves your browser
 
 <p align="left">
-  <a href="https://github.com/maximcuynat/mqtt-explorer"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+  <a href="https://github.com/maximcuynat/toeic-practice"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<a href="https://github.com/maximcuynat/toeic-practice">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=toeic-practice&theme=tokyonight" alt="toeic-practice repo card"/>
+</a>
+
+<br/>
+
+#### 🅿️ Car Park Manager
+
+> **REST API to manage a parking estate** — car parks, levels, spots, and vehicle entries/exits tracked by licence plate.
+
+- 🏗️ **Symfony 7.4 LTS** API skeleton, stateless `^/api` firewall
+- 🗄️ **Doctrine ORM 3** + migrations on **PostgreSQL 15+** (partial indexes)
+- 📄 JSON in, `application/problem+json` out — errors follow **RFC 9457**
+- 🐳 `make setup` / `make serve` / `make health`, Docker-backed database
+- ✅ Covered by **PHPUnit 13**
+
+<p align="left">
+  <a href="https://github.com/maximcuynat/car-park-manager"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PHP%208.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.3"/>
+  <img src="https://img.shields.io/badge/Symfony%207.4-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony 7.4"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<a href="https://github.com/maximcuynat/mqtt-explorer">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=mqtt-explorer&theme=tokyonight" alt="mqtt-explorer repo card"/>
+<!-- Repo card: à décommenter une fois car-park-manager passé en public (sinon il rend "Repository Not found")
+<a href="https://github.com/maximcuynat/car-park-manager">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=car-park-manager&theme=tokyonight" alt="car-park-manager repo card"/>
 </a>
-
-<p align="left">
-  <a href="https://github.com/maximcuynat/mqtt-explorer/releases/latest"><img src="https://img.shields.io/github/v/tag/maximcuynat/mqtt-explorer?style=for-the-badge&logo=github&label=latest%20tag&color=7C3AED" alt="Latest tag"/></a>
-  <a href="https://github.com/maximcuynat/mqtt-explorer/releases/latest"><img src="https://img.shields.io/github/release-date/maximcuynat/mqtt-explorer?style=for-the-badge&label=released&color=0e75b6" alt="Release date"/></a>
-</p>
+-->
 
 ---
 
