@@ -65,6 +65,33 @@
 
 ### 🌟 Featured Projects
 
+#### 🚄 Open Rails
+
+> **A railway track editor and train simulator in the browser** — draw tracks on an infinite canvas, build articulated TGV trainsets car by car, then drive them.
+
+- 🛤️ Straight and curved track with **tangent continuity**, turnouts and crossings
+- 🚆 **Articulated TGV trainsets** (Duplex, TGV M) built on the rails, coupling and uncoupling
+- 🎮 **Driving mode** with reverser, traction and brake notches, up to 500 km/h
+- 📐 Real scale or model scales (HO, N, TT, O, Z), live dimensions, **SVG and JSON export**
+- 🔓 **Free software (AGPL-3.0)**, no account — nothing leaves your browser
+
+<p align="left">
+  <a href="https://maximcuynat.github.io/open-rails/"><img src="https://img.shields.io/badge/Live%20demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo"/></a>
+  &nbsp;
+  <a href="https://github.com/maximcuynat/open-rails"><img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 18"/>
+  <img src="https://img.shields.io/badge/Canvas%202D-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Canvas 2D"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
+
+<a href="https://github.com/maximcuynat/open-rails">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=maximcuynat&repo=open-rails&theme=tokyonight" alt="open-rails repo card"/>
+</a>
+
+<br/>
+
 #### 🎧 TOEIC Practice
 
 > **A static site to sit the TOEIC Listening & Reading test** under exam conditions — timed per section, no going back once a section closes.
